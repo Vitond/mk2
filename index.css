@@ -1,0 +1,94 @@
+/* Global */
+h1.heading-1 {
+    font-size: 9rem;
+}
+html {
+    font-size: 62.5%;
+}
+p {
+    font-size: 2rem !important;
+}
+
+/* First */
+
+/* Uvod */
+.uvod {
+    text-align: left;
+}
+.uvod__okresy {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 30rem;
+}
+.uvod__kraj {
+    width: 30rem;
+}
+
+/* Geomorfologie */
+
+.geomorfologie {
+    text-align: left;
+}
+
+.geomorfologie__mapa {
+    width: 30rem;
+    height: auto;
+    position: absolute;
+   right: 0;
+}
+
+.geomorfologie li {
+    font-size: 2rem !important;
+    line-height: 1 !important;
+}
+.geomorfologie p {
+    margin-bottom: 0rem;
+    margin-top: .5rem;
+}
+
+/* Vodstvo */
+
+.vodstvo {
+    text-align: left;
+}
+
+.vodstvo__bold {
+    font-weight: 700;
+} 
+
+/* .vodstvo__content {
+    position: absolute;
+    right: 0;
+} */
+
+/* Zemědělství */
+
+.zemedelstvi {
+    text-align: left;
+}
+
+/* Ekonomika */
+
+.ekonomika {
+    text-align: left;
+}
+
+/* Průmysl */
+
+.prumysl {
+    text-align: left;
+}
+
+/* Příroda */
+
+.priroda {
+    text-align: left;
+}
+
+/* Památky */
+
+.pamatky {
+    text-align: left;
+}
+
